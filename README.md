@@ -40,7 +40,7 @@ For all other configuration options and detailed setup instructions, please refe
 
 ## Blueprint Preview
 
-`![Blueprint Screenshot](images/blueprint.png)`
+![Blueprint Screenshot](images/blueprint.png)
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
