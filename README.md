@@ -1,5 +1,7 @@
 # Frient Keypad with Alarmo for Home Assistant with full key support
 
+[![Import Blueprint](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https://github.com/adrienvsj/frient-keypad-alarmo-enhanced/blob/main/frient_keypad_alarmo_full_support.yaml)
+
 This project provides an automation to link a **Frient Keypad** to the **Alarmo** module in Home Assistant. It enables seamless communication between the keypad and Home Assistant's Alarm Control Panel, offering advanced functionality for home security management.
 
 ## Acknowledgements
