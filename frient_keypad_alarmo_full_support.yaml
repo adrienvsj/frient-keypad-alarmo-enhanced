@@ -1,5 +1,5 @@
 blueprint:
-  name: "Frient Keypad with Alarmo - Full Support"
+  name: "Frient Keypad with Alarmo"
   description: "Synchronizes Frient Zigbee keypad with Alarmo, supporting all functions including arm home, arm away, arm night, disarm and SOS button. Bidirectional communication ensures keypad state matches alarm state."
   domain: automation
 
